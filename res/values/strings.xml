@@ -2,7 +2,10 @@
 <resources>
 
     <string name="app_name">Android Terminology App</string>
-    <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
-
+	<string name="a_terms">
+	    Android Widget: A single element such as a text view to button or checkbox. also called an object\r\n\n
+	    Android Manifest: File containing all the information to run an application\r\n\n
+	    Android Resource: Resources entail images music and video files that the application uses.\r\n\n
+	    </string>
 </resources>
